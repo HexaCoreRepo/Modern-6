@@ -12,4 +12,4 @@ To use this theme, you will need a jailbroken iOS device, Filza File Manager and
 
 To install: Download the theme to your jailbroken device (on iOS/iPadOS 13.0 or later you can download it with Safari), open it in the Apple Files application. In Files, tap and hold on the .zip file and tap "Share". Then find "Copy to Filza" and tap on it. Once it opens tap the .zip and it will extract into a folder. Copy the new folder and navigate to /Library/Themes and paste the folder there. 
 
-If you have any issues, open a new issue and I *will* see it!
+If you have any bugs, open a new issue and I *will* see it!
