@@ -1,6 +1,9 @@
 # Glacier (BETA)
 
-Here is where you'll download Abyss, my first theme. 
+Here is where you'll download Glacier, my first theme. 
+
+Glacier brings depth and a true to life feel to all of your app icons while maintaining a minimalistic and colorful design. Stock iOS is flat and plain and is in need of a refresh. So, what are you waiting for? Go ahead and try out Glacier!
+
 As of right now, there is nothing. However, my upcoming theme is in Alpha.
 
 *I will release a beta when it is ready.*
