@@ -1,12 +1,12 @@
 # Glacier (BETA)
 
-Here is where you'll download Glacier, my first theme. 
+Here is where you'll download Glacier - my first theme - and its wallpapers!
 
 Glacier brings depth and a true to life feel to all of your app icons while maintaining a minimalistic and colorful design. Stock iOS is flat and plain and is in need of a refresh. So, what are you waiting for? Go ahead and try out Glacier!
 
-As of right now, there is nothing. However, my upcoming theme is in Alpha.
+As of right now, Glacier icons are in Alpha. However, you can now download the Glacier wallpapers!
 
-*I will release a beta when it is ready.*
+*I will release a beta when the theme is ready.*
 During the beta period, you should report any bugs that you come across. However, you can also put in requests for third party apps (App Store apps) as well.
 
 To use this theme, you will need a jailbroken iOS device, Filza File Manager and Snowboard. 
