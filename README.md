@@ -1,4 +1,4 @@
-# Abyss (BETA)
+# Glacier (BETA)
 
 Here is where you'll download Abyss, my first theme. 
 As of right now, there is nothing. However, my upcoming theme is in Alpha.
