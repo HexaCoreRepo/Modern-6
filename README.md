@@ -1,4 +1,4 @@
-# iOS 6 Retina Teme - Modern 6 (BETA)
+# iOS 6 Retina Theme - Modern 6 (BETA)
 
 Here is where you'll download my iOS 6 Retina theme! 
 This *is* my first theme!
