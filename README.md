@@ -1,10 +1,10 @@
-# Glacier (BETA)
+# iOS 6 Retina (BETA)
 
-Here is where you'll download Glacier - my first theme - and its wallpapers!
+Here is where you'll download my iOS 6 Retina theme! This is my very first theme.
 
-Glacier brings depth and a true to life feel to all of your app icons while maintaining a minimalistic and colorful design. Stock iOS is flat and plain and is in need of a refresh. So, what are you waiting for? Go ahead and try out Glacier!
+No one has released there own HD iOS 6 theme in the past few years and I - among others - would like a new one. One that suits the high quality retina and OLED displays we have now. So, I have decided to make one myself!
 
-As of right now, Glacier icons are in Alpha. However, you can now download the Glacier wallpapers!
+As of right now, iOS icons are in Alpha. However, I plan to release the beta *very soon!*
 
 *I will release a beta when the theme is ready.*
 During the beta period, you should report any bugs that you come across. However, you can also put in requests for third party apps (App Store apps) as well.
@@ -13,6 +13,6 @@ To use this theme, you will need a jailbroken iOS device, Filza File Manager and
 
 *I am **uncertain** if this works with Winterboard or Anemone, as I have not tested them. 
 
-To install: Download the theme to your jailbroken device (on iOS/iPadOS 13.0 or later you can download it with Safari), open it in the Apple Files application. In Files, tap and hold on the .zip file and tap "Share". Then find "Copy to Filza" and tap on it. Once it opens tap the .zip and it will extract into a folder. Copy the new folder and navigate to /Library/Themes and paste the folder there. 
+To install: Download the theme to your jailbroken device (on iOS/iPadOS 13.0 or later you can download it with Safari), open it in the Apple Files application. In Files, tap and hold on the .zip file and tap "Share". Then find "Copy to Filza" and select it. Once it opens, tap the .zip and it will extract into a folder. Copy the new folder and navigate to /Library/Themes and paste the folder there. 
 
-If you have any bugs, open a new issue and I *will* see it!
+If you come across any bugs, open a new issue and I *will* see it!
