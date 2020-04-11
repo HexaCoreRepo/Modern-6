@@ -21,7 +21,7 @@ If you come across any bugs, open a new issue and I *will* see it!
 
 # Requirements & Installation 
 
-**To use this theme, you will need a jailbroken iOS device, Filza File Manager and Snowboard. 
+**To use this theme, you will need a jailbroken iOS device, Filza File Manager and Snowboard.**
 
 *I am **uncertain** if this works with Winterboard or Anemone, as I have not tested them. 
 
