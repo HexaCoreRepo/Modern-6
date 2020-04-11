@@ -25,7 +25,26 @@ If you come across any bugs, open a new issue and I *will* see it!
 
 I am *uncertain* if this works with Winterboard or Anemone, as I have not tested them.
 
-To install: Download the theme to your jailbroken device (on iOS/iPadOS 13.0 or later you can download it with Safari), open it in the Apple Files application. In Files, tap and hold on the .zip file and tap "Share". Then find "Copy to Filza" and select it. Once it opens, tap the .zip and it will extract into a folder. Navigate to the .theme folder within the previous folder. Copy the .theme folder and navigate to /Library/Themes and paste the folder there. 
+To install: 
+1) Download the theme to your jailbroken device (on iOS/iPadOS 13.0 or later you can download it with Safari).
+2) Open it in the Apple Files application. 
+3) Tap and hold on the .zip file.
+4) Tap "Share".
+5) Find "Copy to Filza" and select it. 
+6) In Filza, tap the .zip and it will extract into a folder.
+7) Navigate to the .theme folder within the previous folder. 
+8) Copy the .theme folder.
+9) Navigate to /Library/Themes and paste the folder there. 
 
 **If you *do not* have a Themes folder in Library, just add one!**
+
+# F.A.Q
+
+### Why is it downloading as a folder?
+
+If it downloads as a folder, you are simply using a device that is automatically unzipping the file.
+
+### What do I do if it downloads as a folder?
+
+Everything except for step 6. 
 
