@@ -40,6 +40,10 @@ To install:
 
 # F.A.Q
 
+### When will it come out of beta?
+
+When it's ready.
+
 ### Why is it downloading as a folder?
 
 If it downloads as a folder, you are simply using a device that is automatically unzipping the file.
@@ -47,4 +51,5 @@ If it downloads as a folder, you are simply using a device that is automatically
 ### What do I do if it downloads as a folder?
 
 Everything except for step 6. 
+ 
 
