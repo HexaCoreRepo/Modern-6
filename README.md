@@ -7,15 +7,15 @@
 
 This is my first theme.
 
-No one has released an HD iOS 6 theme in a *long* time - if ever and I, among others, would like a new one. That's why I'm bringing you an iOS 6 theme that is specifically for the high quality displays we have now. 
+No one has made an HD iOS 6 theme in a *long* time - if ever. I, among others, would like a new one. That's why I'm bringing you an iOS 6 theme that is specifically for the modern high quality displays we have now. 
 
 Modern 6 looks **great** with "Six (LS)" from Skittys repo!
 
 # About the beta
 
-As of right now, iOS icons are in beta. This means that there will be bugs and not all icons are done. 
+As of right now, iOS icons are in beta. This means that there will be bugs and not all icons are done. This also means that some icons may be blurry for the time being. 
 
-During this beta period, you should report any bugs that you come across. However, you can also put in requests for third party AppStore apps as well.
+During this beta period, you should report any bugs that you come across. However, you can also put in requests for ***popular*** third party App Store apps. These apps must have had an iOS 6 or older specific icon as well.
 
 If you come across any bugs, open a new issue and I *will* see it!
 
