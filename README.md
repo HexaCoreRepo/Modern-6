@@ -1,6 +1,6 @@
 # iOS 6 Retina Theme - Modern 6 (BETA)
 
-# By - IceCool Tech (YouTube - https://www.youtube.com/c/IceCoolTech)
+## By - IceCool Tech (YouTube - https://www.youtube.com/c/IceCoolTech)
 
 
 # Overview
@@ -19,7 +19,7 @@ During this beta period, you should report any bugs that you come across. Howeve
 
 If you come across any bugs, open a new issue and I *will* see it!
 
-# Requirnments & Installation
+# Requirements & Installation 
 
 **To use this theme, you will need a jailbroken iOS device, Filza File Manager and Snowboard. 
 
