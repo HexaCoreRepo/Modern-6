@@ -13,7 +13,7 @@ Modern 6 looks **great** with "Six (LS)" from Skittys repo!
 
 # About the beta
 
-As of right now, iOS icons are in beta. This means that there will be bugs and not all icons are done. This also means that some icons may be blurry for the time being. 
+As of right now, iOS icons are in beta. This means that there will be bugs and not all icons are done. This also means that some icons *may* be blurry for the time being. 
 
 During this beta period, you should report any bugs that you come across. However, you can also put in requests for ***popular*** third party App Store apps. These apps must have had an iOS 6 or older specific icon as well.
 
@@ -26,7 +26,8 @@ If you come across any bugs, open a new issue and I *will* see it!
 I am *uncertain* if this works with Winterboard or Anemone, as I have not tested them.
 
 To install: 
-1) Download the theme to your jailbroken device (on iOS/iPadOS 13.0 or later you can download it with Safari).
+
+1) Download the theme to your jailbroken device from the releases tab. On iOS/iPadOS 13.0 or later, you can download it with Safari.
 2) Open it in the Apple Files application. 
 3) Tap and hold on the .zip file.
 4) Tap "Share".
@@ -50,6 +51,6 @@ If it downloads as a folder, you are simply using a device that is automatically
 
 ### What do I do if it downloads as a folder?
 
-Everything except for step 6. 
+Follow every step in order, but skip step 6.
  
 
