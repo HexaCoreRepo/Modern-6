@@ -13,7 +13,7 @@ Modern 6 looks **great** with "Six (LS)" from Skittys repo!
 
 # About the beta
 
-As of right now, iOS icons are in beta. This means that there will be bugs and not all icons are done. This also means that some icons *may* be blurry for the time being. 
+As of right now, the them is in beta. This means that there will be bugs and not all icons are done. This also means that some icons *may* be blurry for the time being. 
 
 During this beta period, you should report any bugs that you come across. However, you can also put in requests for ***popular*** third party App Store apps. These apps must have had an iOS 6 or older specific icon as well.
 
