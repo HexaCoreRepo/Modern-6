@@ -1,4 +1,4 @@
-# iOS 6 Retina Theme - Modern 6 (BETA)
+# Modern 6 (Beta) - A modern retina iOS 6 theme.
 
 ## By - IceCool Tech (YouTube - https://www.youtube.com/c/IceCoolTech)
 
