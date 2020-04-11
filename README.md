@@ -56,6 +56,6 @@ If it downloads as a folder, you are simply using a device that is automatically
 
 ### What do I do if it downloads as a folder?
 
-Follow every step in order, but skip step 6.
+Follow every step in order, but skip step 6. 
  
 
