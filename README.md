@@ -42,7 +42,7 @@ To install:
 # Known issues
 
 - iOS 6 clock icon is not displayed correctly and cannot be changed to the default icon. 
-Workaround: Disable Modern 6, uninstall it, download Modern 6 0.1.2.1 and respring. Enable the theme.
+Workaround: Disable Modern 6, uninstall it, download Modern 6 0.1.2.1 or newer and respring. Enable the theme.
 
 # F.A.Q
 
