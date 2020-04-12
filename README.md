@@ -57,5 +57,9 @@ If it downloads as a folder, you are simply using a device that is automatically
 ### What do I do if it downloads as a folder?
 
 Follow every step in order, but skip step 6. 
+
+### When will iPhone have full support?
+
+I have not tested the theme yet on iPhone, meaning that I am unsure on what works with iPhone. For example, something like app Badges may only work on iPad right now.
  
 
