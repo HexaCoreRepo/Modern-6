@@ -33,9 +33,9 @@ To install:
 4) Tap "Share".
 5) Find "Copy to Filza" and select it. 
 6) In Filza, tap the .zip and it will extract into a folder.
-7) Navigate to the .theme folder within the previous folder. 
-8) Copy the .theme folder.
-9) Navigate to /Library/Themes and paste the folder there. 
+7) Navigate to the M6 Icons.theme and M6 Badges.theme folders within the previous folder. 
+8) Copy both .theme folders.
+9) Navigate to /Library/Themes and paste the .theme folders in there. 
 
 **If you *do not* have a Themes folder in Library, just add one!**
 
@@ -43,6 +43,8 @@ To install:
 
 - iOS 6 clock icon is not displayed correctly and cannot be changed to the default icon. 
 Workaround: Disable Modern 6, uninstall it, download Modern 6 0.1.2.1 or newer and respring. Enable the theme.
+
+- iOS 6 icon badges appear blurry. 
 
 # F.A.Q
 
