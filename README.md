@@ -46,6 +46,8 @@ Workaround: Disable Modern 6, uninstall it, download Modern 6 0.1.2.1 or newer a
 
 - iOS 6 icon badges appear blurry. 
 
+- Blank calendar app icon. Workaround: Install Modern 6 0.2.1 or older.
+
 # F.A.Q
 
 ### When will it come out of beta?
