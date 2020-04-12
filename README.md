@@ -41,12 +41,11 @@ To install:
 
 # Known issues
 
-- iOS 6 clock icon is not displayed correctly and cannot be changed to the default icon. 
-**Workaround: Disable Modern 6, uninstall it, download Modern 6 beta 0.1.2.1 or newer and respring. Enable the theme.**
-
-- iOS 6 icon badges appear blurry. **Workaround: Install Modern 6 beta 0.2.1 or older or just don't copy over M6 Badges.theme.**
+- iOS 6 icon badges appear blurry. **Workaround: None.**
 
 - Blank calendar app icon. **Workaround: Install Modern 6 beta 0.2.1 or older.**
+
+- iOS 6 Find my iPhone icon appears blurry. **Workaround: None.**
 
 # F.A.Q
 
