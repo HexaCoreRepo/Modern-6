@@ -41,8 +41,6 @@ To install:
 
 # Known issues
 
-- iOS 6 icon badges appear blurry. **Workaround: None.**
-
 - Blank calendar app icon. **Workaround: Install Modern 6 beta 0.2.1 or older.**
 
 - iOS 6 Find my iPhone icon appears blurry. **Workaround: None.**
