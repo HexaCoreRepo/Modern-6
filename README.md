@@ -9,7 +9,7 @@ This is my first theme.
 
 No one has made an HD iOS 6 theme in a *long* time - if ever. I, among others, would like a new one. That's why I'm bringing you an iOS 6 theme that is specifically for the modern high quality displays we have now. 
 
-Modern 6 looks **great** with "Six (LS)" from Skittys repo!
+Modern 6 looks **great** with "Six (LS)" from Skittys repo and Classic Badges!
 
 # About the beta
 
