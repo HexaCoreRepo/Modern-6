@@ -41,9 +41,7 @@ To install:
 
 # Known issues
 
-- Blank calendar app icon. **Workaround: Install Modern 6 beta 0.2.1 or older.**
-
-- iOS 6 Find my iPhone icon appears blurry. **Workaround: None.**
+None!
 
 # F.A.Q
 
@@ -61,6 +59,6 @@ Follow every step in order, but skip step 6.
 
 ### When will iPhone have full support?
 
-I have not tested the theme on iPhone *yet*, meaning that I am unsure on what works with iPhone. For example, something like app Badges may only work on iPad right now.
+Now.
  
 
