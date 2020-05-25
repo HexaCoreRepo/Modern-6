@@ -29,13 +29,12 @@ To install:
 
 1) Download the theme to your jailbroken device from the releases tab. On iOS/iPadOS 13.0 or later, you can download it with Safari.
 2) Open it in the Apple Files application. 
-3) Tap and hold on the .zip file.
-4) Tap "Share".
+3) Extract the folder from the .zip file by tapping on the zip.
+4) Tap and hold on the folder.
 5) Find "Copy to Filza" and select it. 
-6) In Filza, tap the .zip and it will extract into a folder.
-7) Navigate to the M6 Icons.theme and M6 Badges.theme folders within the previous folder. 
-8) Copy both .theme folders.
-9) Navigate to /Library/Themes and paste the .theme folders in there. 
+6) Once in Filza, tap and hold on the "Modern 6" folder and copy it.
+7) Navigate to /Library/Themes and paste the folder.
+8) Open Settings -> Snowboard -> Select theme -> Enable Modern 6.
 
 **If you *do not* have a Themes folder in Library, just add one!**
 
