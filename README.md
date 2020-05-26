@@ -2,6 +2,8 @@
 
 ## By - IceCool Tech (YouTube - https://www.youtube.com/c/IceCoolTech)
 
+## No longer being update here! You can install this theme in Cydia or Zebra using the IceCool Tech official repo:
+
 
 # Overview
 
